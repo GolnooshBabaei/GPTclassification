@@ -9,11 +9,17 @@ Babaei, Golnoosh and Giudici, Paolo, GPT Classifications, with Application to Cr
 
 # Code Settings
 
-To run the code, it is needed to use the Openai API. For this purpose, an API key is needed which can be found on the Openai website: [https://openai.com/blog/openai-api](https://openai.com/blog/openai-api). 
-
-In particular, we consider a credit lending problem in this paper. To find the predictions for this problem, we utilized a GPT model which is used via the Openai API. Therefore, considering the data explained in the paper, we predict the status of the unseen observations using a GPT model by sending the requests via the API. 
+In this work, we consider a credit lending problem in this paper. To find the predictions for this problem, we utilized a GPT model which is used via the Openai API. Therefore, considering the data explained in the paper, we predict the status of the unseen observations using a GPT model by sending the requests via the API. 
 
 Through this code, we analyze a simple "GPT" model, an "informed GPT" model and a "Logistic regressor". We use "informed GPT" to refer to the scenario in which we use our considered data in the prompt which is sent to the GPT model to inform the model about our data.
+
+## Openai API 
+To run the code, it is needed to use the Openai API. For this purpose, an API key is needed which can be found on the Openai website: [https://openai.com/blog/openai-api](https://openai.com/blog/openai-api). 
+
+## Data
+You can use the following link to access the data:
+[final_accepted_rejected_df.csv](https://drive.google.com/file/d/1BZob6Uxd0aVyXZd4yR5bsFdh5-mK-Gxr/view?usp=drive_link)
+
 
 # Contact
 
