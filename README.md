@@ -18,6 +18,8 @@ To run the code, it is needed to use the Openai API. For this purpose, an API ke
 You can use the following link to access the data:
 [final_accepted_rejected_df.csv](https://drive.google.com/file/d/1BZob6Uxd0aVyXZd4yR5bsFdh5-mK-Gxr/view?usp=drive_link)
 
+## Code Ocean link
+[https://codeocean.com/capsule/3083077/tree/v1](https://codeocean.com/capsule/3083077/tree/v1)
 
 # Contact
 
